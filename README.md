@@ -1,16 +1,24 @@
-## Hi there 👋
+# 渡科由太（わたしな・ゆうた）
 
-<!--
-**yuta-watashina/yuta-watashina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+思想と構造をデザインする個人開発者／コンセプト設計者。
+遊びと知識、キャラクターと学習、構造と創造の交差点に立つことを信条としています。
 
-Here are some ideas to get you started:
+## 🧠 主なプロジェクト
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 擬人化学習法アシスタント（β）
+知識をキャラクター化して楽しく学ぶ「渡科式 擬人化学習法」を実装したカスタムGPT。
+辞書ファイルを添付することで、専門的な知識も柔らかく構造化できます。
+
+🔗 [→ カスタムGPTはこちら（ChatGPT内リンク）](https://chatgpt.com/g/g-687da5e983b081918cfa08dea63ec36b-ni-ren-hua-xue-xi-fa-asisutantob?model=gpt-4-1-mini)  
+📦 テンプレート・辞書例・使い方解説（準備中）
+
+## 🎓 思想の根幹
+
+- 知識を「愛着のあるキャラクター」にすることで、理解と記憶を深める
+- 誰もが自分だけの“学びの世界”を構築できるように
+- 擬人化は遊びであり、創造であり、理解であり、そして他者理解の装置である
+
+## 📫 連絡・フォロー
+
+活動報告は主に [Twitter（X）](https://x.com/Yuta_watashina) にて行っています。
+ご意見・感想など、お気軽にお寄せください。
