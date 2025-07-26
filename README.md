@@ -9,7 +9,7 @@
 知識をキャラクター化して楽しく学ぶ「渡科式 擬人化学習法」を実装したカスタムGPT。
 <br>辞書ファイルを添付することで、専門的な知識も柔らかく構造化できます。
 
-🔗 [→ カスタムGPTはこちら（ChatGPT内リンク）](https://chatgpt.com/g/g-687da5e983b081918cfa08dea63ec36b-ni-ren-hua-xue-xi-fa-asisutantob?model=gpt-4-1-mini)  
+🔗 [→ カスタムGPTはこちら（ChatGPT内リンク）](https://chatgpt.com/g/g-687da5e983b081918cfa08dea63ec36b?model=gpt-4-1-mini)  
 📦 テンプレート・辞書例・使い方解説（準備中）
 
 ちなみに本カスタムGPTでは、ユーザーから明示的な指定がない場合、キャラクターの性別や一人称を設定しないよう設計しています。
